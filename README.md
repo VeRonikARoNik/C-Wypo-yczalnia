@@ -181,4 +181,6 @@ PUNKTACJA
 +2 pkt – 2 rozszerzenie
 +2 pkt – estetyka + obsługa błędów
 
+Pześlij zadanie na mail i opisz dodane funkcje:
+wykonanezadania100@gmail.com
 
