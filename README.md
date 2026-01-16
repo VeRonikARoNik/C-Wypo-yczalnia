@@ -32,7 +32,7 @@ Po dodaniu kontrolek podłącz eventy Click:
 
 ------------------------------------------------------------
 KOD DZIAŁAJĄCY PROGRAMU (Form1.cs)
-
+```
 using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
@@ -158,7 +158,7 @@ namespace MiniWypozyczalnia
         }
     }
 }
-
+```
 ------------------------------------------------------------
 TWOJE DODATKOWE ZADANIA 
 
