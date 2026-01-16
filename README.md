@@ -8,11 +8,6 @@ Pozycje (np. książki lub filmy) można:
 - dodawać
 - wypożyczać
 - zwracać
-
-UWAGA:
-Kod bazowy jest w 100% działający.
-Twoim zadaniem jest uruchomić go i DODAĆ 2 rozszerzenia z listy na końcu.
-
 ------------------------------------------------------------
 FORMULARZ (UI)
 
