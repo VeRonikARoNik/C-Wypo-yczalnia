@@ -160,9 +160,11 @@ namespace MiniWypozyczalnia
 }
 
 ------------------------------------------------------------
-TWOJE DODATKOWE ZADANIA (ZROBIĆ MINIMUM 2 PODPUNKTY)
+TWOJE DODATKOWE ZADANIA 
 
+Dodaj więcej produktów do wypożyczalni 
 Wybierz dowolne 2 rozszerzenia:
+(ZROBIĆ MINIMUM 2 PODPUNKTY)
 
 (1) Sortowanie po tytule
 (2) Sortowanie po roku wydania
