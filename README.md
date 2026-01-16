@@ -1,5 +1,4 @@
-# C-Wypo-yczalnia
-README – Projekt: MINI WYPOŻYCZALNIA
+# Projekt: MINI WYPOŻYCZALNIA
 (Windows Forms + C# + ListBox)
 
 CEL ZADANIA:
