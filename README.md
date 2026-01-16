@@ -12,12 +12,17 @@ FORMULARZ (UI)
 
 Na Form1 muszą być kontrolki o nazwach:
 
-ListBox:   listBoxPozycje
-TextBox:   textBoxTytul
-TextBox:   textBoxRok
-Button:    buttonDodaj
-Button:    buttonWypozycz
-Button:    buttonZwroc
+##ListBox:   listBoxPozycje
+
+##TextBox:   textBoxTytul
+
+##TextBox:   textBoxRok
+
+##Button:    buttonDodaj
+
+##Button:    buttonWypozycz
+
+##Button:    buttonZwroc
 
 Po dodaniu kontrolek podłącz eventy Click:
 - buttonDodaj → buttonDodaj_Click
